@@ -19,3 +19,10 @@ I created this repo to:
 Each folder in this repo contains small projects, code snippets, and notes for a specific topic or week.
 
 ---
+
+
+### Learning Direction
+-Dart Basics | Variables, data types, operators, loops, and conditionals |
+-Functions & OOP | Functions, classes, constructors, inheritance |
+-Collections & Exceptions | Lists, Sets, Maps, exception handling |
+-Async Dart | Futures, Streams, async/await |
